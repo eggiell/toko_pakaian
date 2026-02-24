@@ -4,15 +4,7 @@
 
 .login-container {
   min-height: 100vh;
-  background:
-    linear-gradient(
-      rgba(255, 255, 255, 0.55),
-      rgba(255, 255, 255, 0.55)
-    ),
-    url("/bg-login.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  background: #ffffff;
 
   display: flex;
   justify-content: center;
